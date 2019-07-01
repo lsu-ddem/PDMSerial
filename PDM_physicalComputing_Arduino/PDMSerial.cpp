@@ -1,6 +1,6 @@
 /*
   PDMSerial.cpp - DDEM Library for transmit/receive with p5
-  Created by Jesse Allisln 2019
+  Created by Jesse Allisln 2019 
 */
 
 #include "Arduino.h"
